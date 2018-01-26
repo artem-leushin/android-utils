@@ -10,4 +10,5 @@
 .gitignore
 libs/
 src/main/res/
+/idea
 .idea
